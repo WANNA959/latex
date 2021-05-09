@@ -1,0 +1,199 @@
+\begin{thebibliography}{35}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\relax\else
+  \urlstyle{same}\fi
+\providecommand{\href}[2]{\url{#2}}
+\providecommand{\doi}[1]{\href{https://doi.org/#1}{#1}}
+
+\bibitem[代飞\ 等(2020)代飞, 刘国志, 李章, 莫启, and 李彤]{art1}
+代飞, 刘国志, 李章, 等.
+\newblock 微服务技术：体系结构、通信和挑战\allowbreak[J].
+\newblock 应用科学学报, 2020, 38\penalty0 (05):\penalty0 761-778.
+
+\bibitem[邢贞明\ 等(2021)邢贞明, 李登辉, and 潘博]{art2}
+邢贞明, 李登辉, 潘博.
+\newblock 微服务架构与容器技术探析\allowbreak[J].
+\newblock 金融科技时代, 2021\penalty0 (02):\penalty0 66-69.
+
+\bibitem[姚刚\ 等(2020{\natexlab{a}})姚刚, 王从镔, and 吴海莉]{art3}
+姚刚, 王从镔, 吴海莉.
+\newblock {基于Docker技术的微服务架构探析}\allowbreak[J].
+\newblock 信息系统工程, 2020\penalty0 (04):\penalty0 127-128.
+
+\bibitem[孙浩(2020)]{art4}
+孙浩.
+\newblock 产品管理之敏捷说\allowbreak[J].
+\newblock 中国信息化, 2020:\penalty0 44+47.
+
+\bibitem[李闯(2020)]{art5}
+李闯.
+\newblock 中台系统敏捷开发管理的研究\allowbreak[D].
+\newblock 北京邮电大学, 2020.
+
+\bibitem[冯志勇\ 等(2020)冯志勇, 徐砚伟, 薛霄, and 陈世展]{art6}
+冯志勇, 徐砚伟, 薛霄, 等.
+\newblock 微服务技术发展的现状与展望\allowbreak[J].
+\newblock 计算机研究与发展, 2020, 57\penalty0 (05):\penalty0 1103-1122.
+
+\bibitem[黄显琛(2020)]{art7}
+黄显琛.
+\newblock 基于微服务架构的系统设计与实现\allowbreak[J].
+\newblock 信息技术与信息化, 2020\penalty0 (11):\penalty0 16-17.
+
+\bibitem[于洋(2020)]{art8}
+于洋.
+\newblock {RESTful架构风格及其演变与发展}\allowbreak[J].
+\newblock 计算机时代, 2020\penalty0 (04):\penalty0 10-13.
+
+\bibitem[吴旭君(2020)]{art9}
+吴旭君.
+\newblock {基于Spring}
+  {Cloud微服务架构的数据服务系统的实践}\allowbreak[J].
+\newblock 计算机产品与流通, 2020\penalty0 (03):\penalty0 93.
+
+\bibitem[郭致远\ 等(2019{\natexlab{a}})郭致远 and 魏银珍]{art10}
+郭致远, 魏银珍.
+\newblock {基于Spring} {Cloud服务调用的设计与应用}\allowbreak[J].
+\newblock 信息技术与网络安全, 2019, 38\penalty0 (02):\penalty0 87-91.
+
+\bibitem[郭致远\ 等(2019{\natexlab{b}})郭致远 and 魏银珍]{art11}
+郭致远, 魏银珍.
+\newblock 基于Spring Cloud服务调用的设计与应用\allowbreak[J].
+\newblock 信息技术与网络安全, 2019, 38:\penalty0 87-91.
+
+\bibitem[方永敢(2020)]{art12}
+方永敢.
+\newblock
+  微服务架构的研究及小区生活服务平台的实现\allowbreak[D].
+\newblock 电子科技大学, 2020.
+
+\bibitem[庄夏(2018)]{art13}
+庄夏.
+\newblock {API网关架构设计实例}\allowbreak[J].
+\newblock 信息系统工程, 2018\penalty0 (05):\penalty0 99-100.
+
+\bibitem[姚刚\ 等(2020{\natexlab{b}})姚刚, 吴海莉, and
+  王从镔]{art14}
+姚刚, 吴海莉, 王从镔.
+\newblock {浅析微服务架构API网关的作用}\allowbreak[J].
+\newblock 信息系统工程, 2020\penalty0 (12):\penalty0 16-18.
+
+\bibitem[宋欣(2020)]{art15}
+宋欣.
+\newblock
+  基于微服务架构的工业互联网网关的设计与实现\allowbreak[D].
+\newblock 北京交通大学, 2020.
+
+\bibitem[廖俊杰\ 等(2019)廖俊杰 and 陶智勇]{art16}
+廖俊杰, 陶智勇.
+\newblock 微服务API网关的设计及应用\allowbreak[J].
+\newblock 自动化技术与应用, 2019, 38:\penalty0 85-88.
+
+\bibitem[吴润(2019)]{art17}
+吴润.
+\newblock {基于API网关的微服务组合策略研究}\allowbreak[J].
+\newblock 数码世界, 2019\penalty0 (03):\penalty0 84-86.
+
+\bibitem[杨秦(2020)]{art18}
+杨秦.
+\newblock
+  基于微服务架构的云平台服务端的设计与实现\allowbreak[D].
+\newblock 电子科技大学, 2020.
+
+\bibitem[张虎\ 等(2019)张虎 and 张秋萍]{art19}
+张虎, 张秋萍.
+\newblock 基于KONG的API集成系统的设计与实现\allowbreak[J].
+\newblock 计算机技术与发展, 2019, 29:\penalty0 102-106.
+
+\bibitem[李浪(2019)]{art20}
+李浪.
+\newblock
+  基于微服务网关Zuul的TCP功能扩展和限流研究\allowbreak[D].
+\newblock 武汉理工大学, 2019.
+
+\bibitem[吴龙波(2020)]{art21}
+吴龙波.
+\newblock
+  基于Oauth2.0构建空管云数据中心的资源认证授权机制\allowbreak[J].
+\newblock 科技传播, 2020, 12:\penalty0 168-169.
+
+\bibitem[仝野(2018)]{art22}
+仝野.
+\newblock {基于NoSQL数据库的系统设计与开发}\allowbreak[D].
+\newblock 南京邮电大学, 2018.
+
+\bibitem[梁力源(2016)]{art23}
+梁力源.
+\newblock {基于NoSQL存储系统的研究与应用}\allowbreak[D].
+\newblock 重庆交通大学, 2016.
+
+\bibitem[唐文慧(2017)]{art24}
+唐文慧.
+\newblock {内存NoSQL系统Redis性能优化研究与实现}\allowbreak[D].
+\newblock 国防科技大学, 2017.
+
+\bibitem[杜丽娟(2017)]{art25}
+杜丽娟.
+\newblock {关系型数据库与NoSQL数据库的性能对比}\allowbreak[J].
+\newblock 智能计算机与应用, 2017, 7\penalty0 (03):\penalty0 132-134.
+
+\bibitem[陆地\ 等(2019)陆地, 储蓄蓄, 陶静联, and 梁海斌]{art26}
+陆地, 储蓄蓄, 陶静联, 等.
+\newblock {基于阿里云OSS的传统文件中心改造}\allowbreak[J].
+\newblock 有线电视技术, 2019\penalty0 (06):\penalty0 99-101.
+
+\bibitem[丁岚\ 等(2019)丁岚, 周起如, 王英明, 石磊, and
+  胡进贤]{art27}
+丁岚, 周起如, 王英明, 等.
+\newblock {基于Velocity的代码生成器设计与实现}\allowbreak[J].
+\newblock 电脑编程技巧与维护, 2019\penalty0 (08):\penalty0 33-34+44.
+
+\bibitem[齐敬佩(2020)]{art28}
+齐敬佩.
+\newblock
+  检测报告和企业报表自动生成系统的设计与实现\allowbreak[D].
+\newblock 北京邮电大学, 2020.
+
+\bibitem[程文清\ 等(2020)程文清, 赵建立, and 孔英会]{art29}
+程文清, 赵建立, 孔英会.
+\newblock
+  基于B/S架构的开放实验室管理系统设计与实现\allowbreak[J].
+\newblock 中国现代教育装备, 2020:\penalty0 31-33.
+
+\bibitem[王志文(2020)]{art30}
+王志文.
+\newblock
+  Vue+{Elementui}+{Echarts在项目管理平台中的应用}\allowbreak[J].
+\newblock 山西科技, 2020, 35\penalty0 (06):\penalty0 45-47.
+
+\bibitem[夏睿(2019)]{art31}
+夏睿.
+\newblock
+  综合运维平台中运维流程管理子系统的设计与实现\allowbreak[D].
+\newblock 南京大学, 2019.
+
+\bibitem[赵一品(2020)]{art32}
+赵一品.
+\newblock {基于Spring}
+  {Boot和MyBatis的银行知识库管理系统的设计与实现}\allowbreak[D].
+\newblock 山东大学, 2020.
+
+\bibitem[杨德宇(2020)]{art33}
+杨德宇.
+\newblock
+  面向微服务架构的软件可维护性质量模型研究\allowbreak[D].
+\newblock 南京大学, 2020.
+
+\bibitem[梁光瑞\ 等(2020)梁光瑞, 魏国, and 杨光]{art34}
+梁光瑞, 魏国, 杨光.
+\newblock 微服务架构与容器技术的应用集成实践\allowbreak[J].
+\newblock 科技创新与应用, 2020:\penalty0 166-167.
+
+\bibitem[丁超(2020)]{art35}
+丁超.
+\newblock
+  一种分布式系统自动化集成部署的实现方法\allowbreak[D].
+\newblock 山东大学, 2020.
+
+\end{thebibliography}
